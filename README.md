@@ -1,0 +1,2 @@
+# dignal
+diagnal assignment
